@@ -3,7 +3,7 @@
 ## About me
 - 🔭 I’m currently working on autonomous reconnaissance drone.
 - 🌱 I’m currently learning about drones and how to collaborate robotics in everyday life
-- 💬 I speak fluenty Polish and B2/C1 English
+- 💬 I speak fluently Polish and B2/C1 English
 
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][facebook]
