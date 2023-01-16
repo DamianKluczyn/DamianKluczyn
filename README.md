@@ -23,13 +23,6 @@
 [<img align="left" alt="MariaDB" width="26px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="padding-right:10px;" />][mariadb]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />][postgresql]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />][docker]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;" />][php]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
-[<img align="left" alt="CPP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][cpp]
-[<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />][c]
-[<img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][photoshop]
 
 [facebook]: https://www.facebook.com/kluczyn/
 [linkedin]: https://www.linkedin.com/in/dkluczyn/
@@ -44,10 +37,3 @@
 [mariadb]: https://www.mariadb.org
 [postgresql]: https://www.postgresql.org
 [docker]: https://www.docker.com
-[php]: https://www.php.net
-[js]: https://www.javascript.com
-[html]: https://www.w3.org/html/
-[css]: https://www.w3schools.com/css
-[cpp]: https://www.w3schools.com/cpp
-[c]: https://www.cprogramming.com
-[photoshop]: https://www.photoshop.com
