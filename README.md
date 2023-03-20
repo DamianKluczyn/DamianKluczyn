@@ -2,7 +2,7 @@
 
 ## About me
 - 🔭 I’m currently working on autonomous reconnaissance drone.
-- 🌱 I’m currently learning about drones and how to collaborate robotics in everyday life
+- 🌱 I’m currently learning about drones and how to collaborate ML in everyday life
 - 💬 I speak fluently Polish and B2/C1 English
 
 ### Connect with me:
