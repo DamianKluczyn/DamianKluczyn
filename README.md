@@ -14,11 +14,11 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />][java]
 [<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][tensorflow]
 [<img align="left" alt="Keras" width="26px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" style="padding-right:10px;" />][keras]
 [<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />][linux]
 [<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />][java]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="MariaDB" width="26px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="padding-right:10px;" />][mariadb]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />][postgresql]
