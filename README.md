@@ -1,5 +1,3 @@
-### Hi there, I'm Damian a third-year student of Computer Science at the Cracow University of Technology
-
 ## About me
 - 🔭 I’m currently working on autonomous reconnaissance drone.
 - 🌱 I’m currently learning about drones and how to collaborate ML in everyday life
